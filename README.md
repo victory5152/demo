@@ -5,6 +5,7 @@
 
 ```
 mkder /data
+cd /data
 把初始数据放到/data 目录下
 docker-compose ud -d
 ```
