@@ -1,0 +1,5 @@
+http.host: "0.0.0.0"
+xpack.monitoring.enabled: true
+xpack.monitoring.elasticsearch.username: logstash_system
+xpack.monitoring.elasticsearch.password: abcd1234
+xpack.monitoring.elasticsearch.hosts: [ "http://192.168.1.137:9200" ]
